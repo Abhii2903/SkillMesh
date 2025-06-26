@@ -1,10 +1,10 @@
-# SkillSwap
+# SkillMesh
 
-SkillSwap is a MERN stack web platform designed to facilitate collaborative learning and skill development through peer-to-peer guidance. The platform emphasizes reciprocal knowledge exchange, industrial-grade security features, and user-friendly interfaces to create a dynamic learning environment.
+SkillMesh is a MERN stack web platform designed to facilitate collaborative learning and skill development through peer-to-peer guidance. The platform emphasizes reciprocal knowledge exchange, industrial-grade security features, and user-friendly interfaces to create a dynamic learning environment.
 
 ## Motivation
 
-In today's fast-paced world, the acquisition of new skills is essential for personal and professional growth. However, traditional learning methods often lack interaction and dynamism. SkillSwap was created to address this gap by providing a platform where users can learn from each other's experiences in a collaborative and supportive community.
+In today's fast-paced world, the acquisition of new skills is essential for personal and professional growth. However, traditional learning methods often lack interaction and dynamism. SkillMesh was created to address this gap by providing a platform where users can learn from each other's experiences in a collaborative and supportive community.
 
 ## Features
 
@@ -26,7 +26,7 @@ See the screenshots of the project in the screenshots folder.
 
 ## Installation
 
-To run SkillSwap locally, follow these steps:
+To run SkillMesh locally, follow these steps:
 
 ### Prerequisites
 
@@ -38,8 +38,8 @@ To run SkillSwap locally, follow these steps:
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/HarshSharma20503/SkillSwap
-cd SkillSwap
+git clone https://github.com/HarshSharma20503/SkillMesh
+cd SkillMesh
 ```
 
 ### Frontend Setup
